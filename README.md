@@ -2,7 +2,7 @@
 <html>
 <head>
   img src="C:\Users\khkcs\Pictures\hampi.jpg/>
-<title>Page Title</title>
+<title>Page  ggtgtgtgTitle</title>
 </head>
 <body>
 
